@@ -1,0 +1,8 @@
+openai
+langchain
+chromadb
+python-dotenv
+PyPDF2
+#faiss-cpu
+tqdm
+pandas
